@@ -1,7 +1,6 @@
 import re
 import nltk
 
-# Download required resources
 for resource in ['punkt', 'punkt_tab']:
     try:
         nltk.data.find(f'tokenizers/{resource}')
@@ -22,7 +21,6 @@ Visit https://company.com
 Call 9876543210
 """
 
-# Text cleaning
 text = text.lower()
 text = re.sub(r'https?://\S+', '', text)
 text = re.sub(r'\S+@\S+', '', text)
