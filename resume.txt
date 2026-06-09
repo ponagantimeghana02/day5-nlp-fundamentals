@@ -1,0 +1,13 @@
+John Doe
+
+Python Developer
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP,
+Data Analysis, SQL, Pandas, NumPy, Scikit-Learn,
+Git, GitHub, Flask, Django
+
+Experience:
+Developed machine learning models for prediction.
+Worked on NLP projects and resume screening systems.
+Created data visualization dashboards using Python.

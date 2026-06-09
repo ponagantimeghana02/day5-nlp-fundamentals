@@ -1,0 +1,38 @@
+AI CHAT PREPROCESSING REPORT
+==================================================
+
+CLEANED TEXT
+--------------------------------------------------
+hello everyone welcome to our ai training program i am learning machine learning and deep learning contact us at visit for more details ai applications are transforming industries rapidly
+
+TOKENS
+--------------------------------------------------
+['hello', 'everyone', 'welcome', 'to', 'our', 'ai', 'training', 'program', 'i', 'am', 'learning', 'machine', 'learning', 'and', 'deep', 'learning', 'contact', 'us', 'at', 'visit', 'for', 'more', 'details', 'ai', 'applications', 'are', 'transforming', 'industries', 'rapidly']
+
+AFTER STOP WORD REMOVAL
+--------------------------------------------------
+['hello', 'everyone', 'welcome', 'ai', 'training', 'program', 'learning', 'machine', 'learning', 'deep', 'learning', 'contact', 'us', 'visit', 'details', 'ai', 'applications', 'transforming', 'industries', 'rapidly']
+
+LEMMATIZED WORDS
+--------------------------------------------------
+['hello', 'everyone', 'welcome', 'ai', 'training', 'program', 'learning', 'machine', 'learning', 'deep', 'learning', 'contact', 'u', 'visit', 'detail', 'ai', 'application', 'transforming', 'industry', 'rapidly']
+
+TOP KEYWORDS
+--------------------------------------------------
+learning             3
+ai                   2
+hello                1
+everyone             1
+welcome              1
+training             1
+program              1
+machine              1
+deep                 1
+contact              1
+u                    1
+visit                1
+detail               1
+application          1
+transforming         1
+industry             1
+rapidly              1

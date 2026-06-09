@@ -1,0 +1,25 @@
+RESUME KEYWORD ANALYSIS REPORT
+========================================
+
+Top 20 Keywords
+----------------------------------------
+python               3
+learning             3
+machine              2
+nlp                  2
+data                 2
+john                 1
+doe                  1
+developer            1
+skills               1
+deep                 1
+analysis             1
+sql                  1
+pandas               1
+numpy                1
+scikitlearn          1
+git                  1
+github               1
+flask                1
+django               1
+experience           1
