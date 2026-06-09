@@ -6,3 +6,5 @@ Task 1: Data Cleaning
 Task 2: Tokenization
 
 Task 3: StopWord Removal
+
+Task 4: Stemming and Lemmatization
