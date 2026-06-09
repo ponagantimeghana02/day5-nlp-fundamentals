@@ -1,6 +1,5 @@
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
-# Dataset
 documents = [
     "AI is transforming businesses",
     "Machine learning powers AI",
@@ -8,9 +7,7 @@ documents = [
     "AI applications are growing rapidly"
 ]
 
-# -------------------------
-# Bag of Words
-# -------------------------
+
 bow_vectorizer = CountVectorizer()
 
 bow_matrix = bow_vectorizer.fit_transform(documents)
@@ -28,10 +25,6 @@ print(bow_matrix.shape)
 print("\nBoW Matrix:")
 print(bow_matrix.toarray())
 
-
-# -------------------------
-# TF-IDF
-# -------------------------
 tfidf_vectorizer = TfidfVectorizer()
 
 tfidf_matrix = tfidf_vectorizer.fit_transform(documents)
